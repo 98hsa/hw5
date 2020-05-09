@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(255, 86, 0);
+    text-align: center;
+}
+
+.btn-danger {
+    background-color: #f44336;
+    color: #000000;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-style: normal; font-variant: normal;
+    font-weight: 600; line-height: 25px;
+}
+
+.btn-success {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-style: normal; font-variant: normal;
+    font-weight: 600; line-height: 25px;
+}
+
+.btn-info {
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(221, 104, 49);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-style: normal; font-variant: normal;
+    font-weight: 600; line-height: 25px;
+}
+
+.btn btn-info btn-lg{
+    background-color: white;
+    color: #fffd02;
+    border: 2px solid rgb(255, 253, 2);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-style: normal; font-variant: normal;
+    font-weight: 600; line-height: 25px;
+}
+
+h1, p {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-style: normal; font-variant: normal;
+    font-weight: 600; line-height: 25px;
+    color: #000000
+}
+
+.rcorners1 {
+    border-radius: 25px;
+    background: rgba(255, 253, 2, 0.42);
+    padding: 50px 50px;
+    margin: 30px 200px;
+    width: auto;
+    height: auto;
+}
+
+.option{
+    margin: 15px;
+}
